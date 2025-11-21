@@ -6,11 +6,11 @@
 
 </div>
 
-Este repositório contém minhas soluções para problemas do [Beecrowd](https://www.beecrowd.com.br) (antigo URI Online Judge) — uma plataforma online com desafios de programação competitiva e algoritmos.
+Soluções para problemas do [Beecrowd](https://www.beecrowd.com.br) (antigo URI Online Judge) — uma plataforma online com desafios de programação competitiva e algoritmos. O repositório contém códigos desde 2020, quando escrevi meu primeiro `hello, world!`.
 
 </br>
 
-🌟 **Veja meu perfil do beecrowd [aqui.](https://judge.beecrowd.com/pt/profile/440331)**
+🐝 **[Meu perfil do beecrowd](https://judge.beecrowd.com/pt/profile/440331)**
 
 ## Problemas Resolvidos
 
@@ -18,10 +18,10 @@ Este repositório contém minhas soluções para problemas do [Beecrowd](https:/
 
 Iniciante:
 
--   [C++](1_iniciante_beginner/C++/)
--   [Java](1_iniciante_beginner/java)
--   [Javascript](1_iniciante_beginner/javascript)
--   [Python](1_iniciante_beginner/python/)
+-   [C++](1_iniciante/c++/)
+-   [Java](1_iniciante/java/)
+-   [Javascript](1_iniciante/javascript/)
+-   [Python](1_iniciante/python/)
 
 Ad Hoc:
 
@@ -33,17 +33,12 @@ Strings:
 
 Matemática:
 
--   [Java](5_matematica_mathematics/java/)
--   [Python](5_matematica_mathematics/python/)
+-   [Java](5_matematica/java/)
+-   [Python](5_matematica/python/)
 
 SQL:
 
--   [SQL - PostgresSQL](7_sql/)
-
-</br>
-
-> [!IMPORTANT]  
-> _Esse repositório reflete minha joranada de evolução técnica, contendo códigos desde a minha fase mais inicial na minha jornada de programação (2020)._
+-   [SQL - PostgresSQL](9_sql/)
 
 ## 📂 Estrutura
 
